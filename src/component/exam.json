@@ -1,0 +1,14 @@
+{
+  "examnot": [
+    {
+      "examtype": "Internal Exam",
+      "examdate": "20-06-2023",
+      "examdiscr": "Extc Exam"
+    },
+    {
+      "examtype": "External Exam",
+      "examdate": "21-06-2023",
+      "examdiscr": "Oops"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "fname": "Raju",
+      "lname": "Rao",
+      "phone": "9898787865",
+      "email": "rajurao@gmail.com",
+      "fathername": "Raman",
+      "joiningdate": "31-09-2021"
+    },
+    {
+      "id": "3",
+      "fname": "Pranav",
+      "lname": "Rai",
+      "phone": "8975648367",
+      "email": "pranav@gmail.com",
+      "fathername": "Ramesh",
+      "fatherno": "8965748907",
+      "mothername": "Bharati",
+      "motherno": "7234560968",
+      "dob": "01-01-1999",
+      "joiningdate": "20-09-2021",
+      "subject": "UI Development",
+      "message": "UI Development Student"
+    },
+    {
+      "id": "4",
+      "fname": "Aishwarya",
+      "lname": "Kapile",
+      "phone": "8975648367",
+      "email": "aishwaryakapile40@gmail.com",
+      "fathername": "Mansing",
+      "fatherno": "8965748342",
+      "mothername": "Rekha",
+      "motherno": "7234560968",
+      "dob": "20-10-1999",
+      "joiningdate": "20-09-2021",
+      "subject": "UI Development",
+      "message": ""
+    },
+    {
+      "id": "5",
+      "fname": "Prajakta",
+      "lname": "Kapile",
+      "phone": "8555932001",
+      "email": "prajakta@gmail.com",
+      "fathername": "Mansing",
+      "fatherno": "7218878674",
+      "mothername": "Bhavana",
+      "motherno": "9209014565",
+      "dob": "26-01-1996",
+      "joiningdate": "21-02-2020",
+      "subject": "Software Developer",
+      "message": "Software Developer"
+    },
+    {
+      "id": "2",
+      "fname": "Vedant",
+      "lname": "Kapile",
+      "phone": "9209051045",
+      "email": "vedant@gmail.com",
+      "fathername": "Mansing",
+      "fatherno": "8965748342",
+      "mothername": "Rekha",
+      "motherno": "7218879678",
+      "dob": "07-10-2000",
+      "joiningdate": "28-06-2022",
+      "subject": "Full Stack Development",
+      "message": "Full Stack Development"
+    },
+    {
+      "id": "6",
+      "fname": "Swami",
+      "lname": "Narayan",
+      "phone": "9209055643",
+      "email": "swami@gmail.com",
+      "fathername": "Rakesh",
+      "fatherno": "9988674573",
+      "mothername": "Trupti",
+      "motherno": "8790678983",
+      "dob": "10-12-1998",
+      "joiningdate": "12-01-2022",
+      "subject": "Development",
+      "message": "Development"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+.sidebarnav ul li{
+    list-style-type: none;
+    margin-top: 20px;
+    margin-left: -20px; 
+   text-align: justify;
+   
+}
+.sidebarnav ul li a{
+    color: black;
+    padding: 9px;
+    font-weight: bold;
+    border-bottom: 1px solid rgb(225, 224, 224);
+
+}
+.sidebarnav a:hover{
+    background-color: #dd1a32;
+    color: white !important;
+}
+
+.sidebarnav .navheading{
+    text-align:justify; 
+   background-color: #dd1a32;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 15px 0px 15px 0px;
+}
+.logo{
+height: 80px;
+width: 100%;
+margin-bottom: 30px;
+}
+/* .logobgcolor{
+    background: #dd1a32;
+} */

@@ -1,0 +1,88 @@
+.navbar a{
+    color: white;
+    padding: 2px 9px;
+}
+.navigation,footer{
+    width: 100% !important;
+    background-color:#dd1a32;
+    
+}
+.navt li a{
+    padding: 10px;
+    margin-left: 30px !important;
+    font-weight: 700;
+    font-size:medium;
+}
+.header{
+background-image: url(./headerimg.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+}
+.borderright{
+    border-right: 1px solid rgb(208, 204, 204);
+}
+.fiximg img{
+    width: 90%;
+    height: 230px;
+}
+.affility img{
+    width: 90%;
+    height: 190px;
+}
+.bg-grey{
+    background-color: rgb(230, 227, 227);
+}
+.justify{
+    text-align: justify;
+}
+.counter{
+    background: url(./counterdarkimg.png);
+}
+.marqu{
+    padding: 25px;
+   
+}
+.footertxt ul li,.footertxt a{
+   list-style-type: none;
+ text-align: justify;
+ margin-left: 40px;
+ padding-left: 50px;
+}
+.socialmedia{
+    display: flex;
+}
+.socialmedia li{
+    list-style-type: none;
+ padding-bottom: 30px;
+ padding-left: 40px;
+ 
+}
+.bottomfooter{
+    background-color: #9b0d1e;
+}
+.orgimg img{
+    width: 100%;
+}
+.infrapara{
+    text-align: justify;
+}
+.infraimgp{
+    font-weight:900;
+    margin-left: 10px;
+}
+.infraimg img{
+    height: 300px;
+    width: 95%;
+}
+.research p,.research h3,.research h4,.contact{
+    text-align: justify;
+}
+.researchimg img{
+    width:50%;
+    height: 100px;
+}
+.errmsg{
+    color: red;
+    margin-top: -15px;
+    margin-bottom: 10px;
+}

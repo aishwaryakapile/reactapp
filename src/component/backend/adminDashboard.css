@@ -1,0 +1,16 @@
+.banner{
+height: 140px;
+width: 100%;
+}
+.body{
+    margin-top: 15px;
+}
+.form{
+    margin-top: 20px;
+}
+.btnright{
+    float: right;
+}
+.errmsg{
+    color:red;
+}
